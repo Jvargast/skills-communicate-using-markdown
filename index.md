@@ -18,7 +18,9 @@ var second = 2;
 var sum = first + second;
 ```
 
-
+- [ ] Turn on github pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
 
 
 
